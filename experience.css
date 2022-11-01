@@ -24,13 +24,20 @@ a {
     background-color: white;
 }
 
-.column {
-    padding-top: 30px;
+.intern {
+    font-size: larger;
+    font-weight: bold;
     text-align: center;
 }
 
-.con {
-    text-align: center;
-    padding-top: 50px;
+.first {
+    padding-top: 20px;
+}
+
+.second {
+    padding-top: 20px;
+}
+
+.title {
     font-weight: bold;
 }

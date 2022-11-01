@@ -23,3 +23,16 @@ a {
     margin-bottom: 15px;
     background-color: white;
 }
+
+.ab {
+    padding: 25px 50px;
+}
+
+.title {
+    font-size: large;
+    font-weight: bold;
+}
+
+.content {
+    padding-bottom: 20px;
+}

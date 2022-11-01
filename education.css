@@ -24,13 +24,11 @@ a {
     background-color: white;
 }
 
-.column {
-    padding-top: 30px;
+.con {
     text-align: center;
 }
 
-.con {
-    text-align: center;
-    padding-top: 50px;
-    font-weight: bold;
+
+.start {
+    padding-top: 20px;
 }
